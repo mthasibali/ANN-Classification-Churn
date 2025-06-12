@@ -1,2 +1,2 @@
 # ANN-Classification-Churn
-ANN model designed predicting customer's churn probability.
+ANN model designed to predict customer's churn probability.
